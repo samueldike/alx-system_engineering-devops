@@ -8,3 +8,6 @@ a script that adds execution permission to the owner, the group owner and the ot
 Deny permission from owner, group and allow all permission to others
 rwxr-x-wx permission
 Write a script that sets the mode of the file hello the same as olleh’s mode.
+11-directories_permissions
+12-directory_permissions
+13-change_group
