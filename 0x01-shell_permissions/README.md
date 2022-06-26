@@ -7,3 +7,4 @@ Write a script that adds execute permission to the owner and the group owner, an
 a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 Deny permission from owner, group and allow all permission to others
 rwxr-x-wx permission
+Write a script that sets the mode of the file hello the same as olleh’s mode.
